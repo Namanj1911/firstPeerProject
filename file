@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset = "UTF-8">
+	<title>First Peer-graded Assignment</title>
+</head>
+<body>
+	<h1>Naman Jain</h1>
+	<nav>
+		<a href="/html/">One</a>
+        <a href="/css/">Two</a>
+        <a href="/js/">Three</a>
+        <a href="/jquery/">Four</a>
+	</nav>
+
+	<h2>Favorite Foods</h2>
+	<ul>
+		<li>Ice-cream</li>
+		<li>Burgers</li>
+		<li>Pasta</li>
+		<li>Hakka Noodles</li>
+	</ul>
+
+	<h2>Achievements</h2>
+	<p>Progress in this course (100%) <progress value="100" max="100"> (32%) </progress> <br>Progress in the Specialization capstone (20%) <progress value="20" max="100"> (20%) </progress> <br> Progress in life goals (25%) <progress value="25" max="100"> (25%) </progress> </p>
+
+	<h2>More Acout Me</h2>
+	<details>
+		<summary>My Childhood</summary>
+		<p>I hail from Bengaluru, India and during my childhood i was extremely fond of eating fruit chills.</p>
+	</details>
+
+	<footer>
+		<img src="http://www.intro-webdesign.com/images/newlogo.png" alt="Web Design image">
+		<p>This page was created by Naman Jain and Colleen van Lent. To learn more about web design, visit <a href="http://www.intro-webdesign.com">Intro to Web Design.</a></p>
+	</footer>
+</body>
+</html>
